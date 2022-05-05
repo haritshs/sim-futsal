@@ -8,3 +8,5 @@ Detail Page
 
 Order Page
 ![screencapture-127-0-0-1-8000-update-status-599220-2022-01-01-21_49_07](https://user-images.githubusercontent.com/102964871/162564297-9f3378d6-0026-4c49-a7bf-35567224a138.png)
+
+Dashboard Admin
